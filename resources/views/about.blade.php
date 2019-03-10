@@ -1,7 +1,10 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1>Green's Home and Lighting - About</h1>
+    <center>
+        <h1>Green's Home and Lighting</h1>
+        <a href="home.html">Home</a> | <b>About</b>
+    </center>
 @endsection
 
 @section('sidebar')
