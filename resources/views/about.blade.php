@@ -3,7 +3,7 @@
 @section('content')
     <center>
         <h1>Green's Home and Lighting</h1>
-        <a href="/home">Home</a> | <b>About</b>
+        <a href="/">Home</a> | <b>About</b>
     </center>
 @endsection
 
